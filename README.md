@@ -7,4 +7,4 @@
 ``MAKEOPTS="-j8 -l8"``
 ###### I recommend to keep the USE flags as is.
 
-### Remember to update the Gentoo mirrors and linux kernel `.config` file.
+### Remember to update the Gentoo mirrors
